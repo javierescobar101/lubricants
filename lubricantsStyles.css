@@ -1,0 +1,150 @@
+.wrapper{
+
+	width: 970px;
+	background-color: grey;
+	height: 550px;
+}
+.banner{
+	background-color: white;
+	display:block;
+}
+.logo{
+	display: inline-block;
+}
+.header{
+	display: inline-block;
+	vertical-align: bottom;
+	margin-left: 300px;
+	margin-bottom: 20px;
+}
+
+.maincontent{
+	height: 550px;
+	background-color: black;
+}
+.mainnav{
+	background-color: #D3D3D3;
+	width: 970px;
+	height: 60px;
+}
+.mainnav p{
+	display: inline;
+	text-align:center;
+
+}
+.mainnav a{
+	color:grey;
+}
+.locationpic{
+width: 377px;
+height: 255px;
+border: 5px solid white;
+background-image: url("main_pic.png");
+display: inline-block;
+margin-top: 10px;
+margin-left: 20px;
+}
+
+.about{
+	height: 266px;
+	width: 500px;
+	display: inline-block;
+	margin-left: 20px;
+	
+	margin-top: 10px;
+	vertical-align: top;
+	background-color: grey;
+
+
+}
+.title{
+	background-color:#FFD700 ;
+	display: block;
+	height: 35px;
+
+}
+h4{
+	padding: 10px;
+	margin:0;
+}
+.about p{
+	font-size: 11px;
+	color: white;
+	padding: 5px;
+}
+.bulk{
+	color: #FFD700 ;
+	font-size: 10px;
+	display: inline-block;
+	width: 400px;
+	vertical-align: top;
+}
+.bulk p{
+	vertical-align: top;
+	display: inline-block;
+	vertical-align: top;
+	margin: 1px auto;
+}
+.boxes{
+	background-color: white;
+	width: 222px;
+	height: 220px;
+}
+.inline{
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 200px;
+	margin-left: 10px;
+}
+
+h5{
+	padding: 7px;
+	margin:0;
+}
+.subtitle{
+	background-color:#FFD700 ;
+	display: block;
+	height:25px;
+}
+.boxes p{
+	font-size: 10px;
+	padding: 5px;
+	height: 40px;
+
+}
+
+.button{
+	vertical-align: bottom;
+	margin-left: 100px;
+	border-right: 50%;
+		
+
+}
+.mini{
+	display: inline-block;
+	
+	vertical-align: top;
+	background-size: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
